@@ -1,17 +1,17 @@
-# Ignore Python and project files 
-# Python
+ 
+
 __pycache__/
 *.pyc
 venv/
 
-# Node
+
 node_modules/
 
-# IDE / OS
+
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
 
-# Logs
+
 *.log
